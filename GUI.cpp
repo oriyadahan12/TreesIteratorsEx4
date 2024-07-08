@@ -1,5 +1,5 @@
 //const
-//oriyai0701@gmail.com
+//oriyati0701@gmail.com
 
 //
 

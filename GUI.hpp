@@ -1,4 +1,4 @@
-//oriyai0701@gmail.com
+//oriyati0701@gmail.com
 
 #ifndef TREESITERATORS_CPP_GUI_HPP
 #define TREESITERATORS_CPP_GUI_HPP
