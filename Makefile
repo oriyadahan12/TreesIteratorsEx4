@@ -1,3 +1,5 @@
+#oriyai0701@gmail.com
+
 # Makefile for building k-ary tree visualization and tests
 
 CXX = clang++

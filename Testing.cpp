@@ -1,4 +1,6 @@
 //#define DOCTEST_CONFIG_IMPLEMENT_WITH_MAIN
+//oriyai0701@gmail.com
+
 #include "doctest.h"
 #include <iostream>
 #include <vector>

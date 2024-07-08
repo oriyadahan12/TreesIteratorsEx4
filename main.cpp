@@ -1,3 +1,5 @@
+//oriyai0701@gmail.com
+
 #include <SFML/Graphics.hpp>
 #include <iostream>
 #include "GUI.hpp"

@@ -1,5 +1,6 @@
 //const
-// Created by magshimim on 6/30/24.
+//oriyai0701@gmail.com
+
 //
 
 #include "GUI.hpp"
